@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.idea/
+
+# OS files
+.DS_Store
+
+# Environment variables
+.env
+
+similarity.pkl
+movie_list.pkl
+*.pkl
